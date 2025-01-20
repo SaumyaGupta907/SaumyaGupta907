@@ -24,7 +24,7 @@
 
 - I'm currently learning about : **Docker \& NextJS**!
 
-- 💬 Ask me about **Python, Java, DSA, React, SQL**
+- 💬 Ask me about **Python, Java, DSA, React, Databases**
 
 - 📫 Feel free to reach me out **gupta.saum@northeastern.edu**
 
