@@ -22,7 +22,7 @@
 - Driven by a relentless commitment to excellence and timely delivery, I have spearheaded transformative projects and developed innovative solutions in dynamic, startup-like settings, consistently exceeding expectations and setting new benchmarks for success.
 - Whether it's designing, implementing, or managing complex back-end software solutions, I thrive in dynamic settings where handling risks and delivering robust results are paramount.
 
-- I'm currently learning about : **Docker \& NextJS**!
+- I'm currently learning about : **AWS Developer - Associate Certification**!
 
 - 💬 Ask me about **Python, Java, DSA, React, Databases**
 
