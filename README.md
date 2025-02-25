@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Computer Science Graduate @ Northeastern University, Boston, MA<br>(September 2023 - May 2025)<br><br>Looking for full-time Software Developer opportunities</h6>
+<h4 align="center">Computer Science Graduate @ Northeastern University, Boston, MA<br>(September 2023 - May 2025)<br><br>Looking for full-time Software Developer opportunities</h6>
 
 ###
 
@@ -74,9 +74,37 @@
 
 ###
 
-<p align="left">👋 About Me:<br><br>Software Developer with <b>~1 year</b> of professional experience and <b>3 internships</b>, skilled in <b>Python, Java, and JavaScript</b>.<br>Experience in both frontend and backend development, delivering robust full-stack solutions.<br><br>💡 What I Bring:<br><br><b>Coding Languages</b>: Python, Java, TypeScript, JavaScript<br><b>Web Technologies</b>: HTML, CSS, Node.js, Express.js, React.js, Next.js, REST APIs, MVC<br><b>Database & Cloud</b>: Relational Databases, MySQL, MongoDB, NoSQL, Firebase, S3, Docker, AWS<br><b>Miscellaneous</b>: Git, Linux, Jira, Agile, IntelliJ, VSCode, Problem-solving<br>Strong project management skills, demonstrated by leading end-to-end development projects and adapting to dynamic requirements.<br>A passion for solving real-world problems through innovative tech solutions, coupled with a growth mindset and eagerness to learn.<br><br>🚀 Experience Highlights:<br><br>Built a data science portal at Crewasis using TypeScript, Next.js, Python, Django, and PostgreSQL, adding a search bar for easy project discovery.<br>Developed a national dashboard for monitoring water quality in schools during the Smart India Hackathon, integrating IoT features using HTML, CSS, JavaScript, Django, and Firebase.<br>Supported SAP BASIS operations at Accenture, managing system administration tasks, performance optimization, and troubleshooting to maintain seamless enterprise workflows.<br>Enhanced software solutions as an SDE Intern at ValueLabs and DecibelApps, collaborating in agile environments to deliver impactful results.<br><br>📚 Currently Learning:<br><br>Preparing for the AWS Developer - Associate Certification to deepen my cloud expertise.<br>💬 Let’s Talk About:<br><br>Python, Java, Data Structures & Algorithms, React, Databases<br>📫 Reach Me At: <a href="mailto:gupta.saum@northeastern.edu" style="color: blue; text-decoration: underline;">
-    gupta.saum@northeastern.edu
-</a>
+<p align="left">
+    👋 <b>About Me:</b><br><br>
+    Software Developer with <b>~1 year</b> of professional experience and <b>3 internships</b>, skilled in <b>Python, Java, and JavaScript</b>.<br>
+    Experience in both frontend and backend development, delivering robust full-stack solutions.<br><br>
+
+    💡 <b>What I Bring:</b><br><br>
+    <b>Coding Languages</b>: Python, Java, TypeScript, JavaScript<br>
+    <b>Web Technologies</b>: HTML, CSS, Node.js, Express.js, React.js, Next.js, REST APIs, MVC<br>
+    <b>Database & Cloud</b>: Relational Databases, MySQL, MongoDB, NoSQL, Firebase, S3, Docker, AWS<br>
+    <b>Miscellaneous</b>: Git, Linux, Jira, Agile, IntelliJ, VSCode, Problem-solving<br><br>
+    Strong project management skills, demonstrated by leading end-to-end development projects and adapting to dynamic requirements.<br>
+    A passion for solving real-world problems through innovative tech solutions, coupled with a growth mindset and eagerness to learn.<br><br>
+
+    🚀 <b>Experience Highlights:</b><br><br>
+    - Built a data science portal at Crewasis using <b>TypeScript</b>, <b>Next.js</b>, <b>Python</b>, <b>Django</b>, and <b>PostgreSQL</b>, adding a search bar for easy project discovery.<br>
+    - Developed a national dashboard for monitoring water quality in schools during the <b>Smart India Hackathon</b>, integrating <b>IoT features</b> using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Django</b>, and <b>Firebase</b>.<br>
+    - Supported <b>SAP BASIS</b> operations at <b>Accenture</b>, managing system administration tasks, performance optimization, and troubleshooting to maintain seamless enterprise workflows.<br>
+    - Enhanced software solutions as an <b>SDE Intern</b> at <b>ValueLabs</b> and <b>DecibelApps</b>, collaborating in agile environments to deliver impactful results.<br><br>
+
+    📚 <b>Currently Learning:</b><br><br>
+    Preparing for the <b>AWS Developer - Associate Certification</b> to deepen my cloud expertise.<br><br>
+    
+    💬 <b>Let’s Talk About:</b><br><br>
+    Python, Java, Data Structures & Algorithms, React, Databases<br><br>
+
+    📫 <b>Reach Me At:</b> 
+    <a href="mailto:gupta.saum@northeastern.edu" style="color: blue; text-decoration: underline;">
+        gupta.saum@northeastern.edu
+    </a>
+</p>
+
 
 
 ###
