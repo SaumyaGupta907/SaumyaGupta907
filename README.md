@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Computer Science Graduate @ Northeastern University, Boston, MA<br>(September 2023 - May 2025)<br><br>Looking for full-time Software Developer opportunities</h6>
+<h3 align="center"><b>Computer Science Graduate @ Northeastern University, Boston, MA<br>(September 2023 - May 2025)<br><br>Looking for full-time Software Developer opportunities</b></h3>
 
 ###
 
@@ -74,12 +74,12 @@
 
 ###
 
-# 👋 About Me:
+## 👋 About Me:
 
 Software Developer with **~1 year** of professional experience and **3 internships**, skilled in **Python, Java, and JavaScript**.  
 Experience in both frontend and backend development, delivering robust full-stack solutions.
 
-## 💡 What I Bring:
+### What I Bring:
 
 - **Coding Languages**: Python, Java, TypeScript, JavaScript
 - **Web Technologies**: HTML, CSS, Node.js, Express.js, React.js, Next.js, REST APIs, MVC
@@ -89,22 +89,22 @@ Experience in both frontend and backend development, delivering robust full-stac
 Strong project management skills, demonstrated by leading end-to-end development projects and adapting to dynamic requirements.  
 A passion for solving real-world problems through innovative tech solutions, coupled with a growth mindset and eagerness to learn.
 
-## 🚀 Experience Highlights:
+### Experience Highlights:
 
 - Built a data science portal at **Crewasis** using **TypeScript**, **Next.js**, **Python**, **Django**, and **PostgreSQL**, adding a search bar for easy project discovery.
 - Developed a national dashboard for monitoring water quality in schools during the **Smart India Hackathon**, integrating **IoT features** using **HTML**, **CSS**, **JavaScript**, **Django**, and **Firebase**.
 - Supported **SAP BASIS** operations at **Accenture**, managing system administration tasks, performance optimization, and troubleshooting to maintain seamless enterprise workflows.
 - Enhanced software solutions as an **SDE Intern** at **ValueLabs** and **DecibelApps**, collaborating in agile environments to deliver impactful results.
 
-## 📚 Currently Learning:
+### Currently Learning:
 
 Preparing for the **AWS Developer - Associate Certification** to deepen my cloud expertise.
 
-## 💬 Let’s Talk About:
+### Let’s Talk About:
 
 Python, Java, Data Structures & Algorithms, React, Databases
 
-## 📫 Reach Me At:
+### Reach Me At:
 
 [gupta.saum@northeastern.edu](mailto:gupta.saum@northeastern.edu)
 
