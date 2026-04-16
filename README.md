@@ -1,86 +1,132 @@
-<div align="center">
-  <img height="180" src="https://i.postimg.cc/vZf3WX1N/Hi-I-m-Saumya.png"  />
-</div>
+# Saumya Gupta
 
-###
+![Full-Stack Software Engineer](https://img.shields.io/badge/Full--Stack%20Software%20Engineer-0A0A0A?style=flat-square)
+![MS CS Northeastern 3.92 GPA](https://img.shields.io/badge/MS%20CS%20·%20Northeastern%20·%203.92%20GPA-0A0A0A?style=flat-square)
+![Open to US Roles](https://img.shields.io/badge/Open%20to%20roles%20across%20the%20US%20·%20Willing%20to%20relocate-0A0A0A?style=flat-square)
+![New York NY](https://img.shields.io/badge/New%20York%2C%20NY-0A0A0A?style=flat-square)
 
-<h4 align="center"><b>Computer Science Graduate @ Northeastern University, Boston, MA<br>(September 2023 - May 2025)<br><br>Looking for full-time Software Developer opportunities</b></h3>
+Full-stack engineer building **responsive product interfaces, scalable APIs, and data pipelines** that ship to production. Published researcher in **deep learning and computer vision** — Springer, 2023. Winner of **Smart India Hackathon 2022**, the world's largest hackathon with 1M+ participants. Previously at **Experian** and **Accenture**.
 
-###
+---
 
-<div align="left">
-  
+## Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23F05138.svg?style=for-the-badge&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%23000538.svg?style=for-the-badge&logo=jira&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+**Databases**
 
-###
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
-## 👋 About Me:
+**Frameworks & APIs**
 
-Software Developer with **~1 year** of professional experience and **3 internships**, skilled in **Python, Java, and JavaScript**.  
-Experience in both frontend and backend development, delivering robust full-stack solutions.
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=flat-square&logo=elasticsearch&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0A0A0A?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=flat-square)
 
-### 💡 What I Bring:
+**Cloud & DevOps**
 
-- **Coding Languages**: Python, Java, TypeScript, JavaScript
-- **Web Technologies**: HTML, CSS, Node.js, Express.js, React.js, Next.js, REST APIs, MVC
-- **Database & Cloud**: Relational Databases, MySQL, MongoDB, NoSQL, Firebase, S3, Docker, AWS
-- **Miscellaneous**: Git, Linux, Jira, Agile, IntelliJ, VSCode, Problem-solving
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Harness CI/CD](https://img.shields.io/badge/Harness%20CI%2FCD-0A0A0A?style=flat-square)
 
-Strong project management skills, demonstrated by leading end-to-end development projects and adapting to dynamic requirements.  
-A passion for solving real-world problems through innovative tech solutions, coupled with a growth mindset and eagerness to learn.
+**AI & ML**
 
-### 🚀 Experience Highlights:
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square)
+![VADER](https://img.shields.io/badge/VADER%20Sentiment%20Analysis-0A0A0A?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0A0A0A?style=flat-square)
 
-- Built a data science portal at **Crewasis** using **TypeScript**, **Next.js**, **Python**, **Django**, and **PostgreSQL**, adding a search bar for easy project discovery.
-- Developed a national dashboard for monitoring water quality in schools during the **Smart India Hackathon**, integrating **IoT features** using **HTML**, **CSS**, **JavaScript**, **Django**, and **Firebase**.
-- Supported **SAP BASIS** operations at **Accenture**, managing system administration tasks, performance optimization, and troubleshooting to maintain seamless enterprise workflows.
-- Enhanced software solutions as an **SDE Intern** at **ValueLabs** and **DecibelApps**, collaborating in agile environments to deliver impactful results.
+**Tools**
 
-### 📚 Currently Learning:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1DF?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0A0A0A?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-0A0A0A?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-0A0A0A?style=flat-square&logo=github&logoColor=white)
 
-Preparing for the **AWS Developer - Associate Certification** to deepen my cloud expertise.
+---
 
-### 💬 Let’s Talk About:
+## Experience
 
-Python, Java, Data Structures & Algorithms, React, Databases
+**IpserLab** · Software Engineer · `Aug 2025 – Present`
+> Led frontend for multi-vendor e-commerce platform · **10+ React/TypeScript components** shipped to production
 
-### 📫 Reach Me At:
+**Experian Consumer Services** · Software Engineering Intern · `May – Aug 2025`
+> 6 MuleSoft API specs deployed · Spring Boot JDK 8→17 migration · 15+ Veracode vulnerabilities remediated · **99.9% uptime**
 
-[gupta.saum@northeastern.edu](mailto:gupta.saum@northeastern.edu)
+**Crewasis.ai (Techstars)** · Software Engineering Intern · `May – Aug 2024`
+> ETL pipeline **3 days → 10 mins** · Search portal **5 mins → instant** · React/TypeScript data dashboard
 
+**Accenture** · Associate Software Engineer · `Oct 2022 – Aug 2023`
+> Azure cloud migration · **25+ enterprise servers** · **99.9% uptime** · Shell scripting automation · Kafka event pipelines
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumyaGupta907&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Projects
 
+| Project | Stack | Highlights |
+|---|---|---|
+| [Web Crawler Search Engine](https://github.com/SaumyaGupta907/WebCrawlerSearchEngine) | Python · Flask · Elasticsearch · Docker · Kibana | Multithreaded crawler · 30,000+ pages · **2 hrs → 8 mins** |
+| [Gym Management System](https://github.com/SaumyaGupta907/GymManagementSystem) | Angular · Node.js · MySQL | Full-stack · 13-table schema · stored procedures · role-based auth |
+| [SheBalance — SheHack NEU](https://github.com/SaumyaGupta907/SheHack-HackathonNEU) | React · Node.js · HuggingFace · VADER · ApyHub | VADER sentiment wellness · HuggingFace Slack summarization · AI/NLP |
+| [Hydrosense — SIH Winner](https://github.com/SaumyaGupta907/Hydrosense-SIH-KIRA) | Django · JavaScript · Firebase · IoT | **Won Smart India Hackathon 2022** · National water quality dashboard · IoT integration |
+| [HuskyStudyApp](https://github.com/SaumyaGupta907/HuskyStudyApp) | SwiftUI · Firebase | Real-time chat · user auth · media storage · iOS |
+| [Collab Blog Platform](https://github.com/SaumyaGupta907/collab-blog-platform) *(in progress)* | React · TypeScript · GraphQL · Node.js · Docker | Full-stack blogging · GraphQL API · Docker + K8s deployment in progress |
 
-###
+---
 
-<div align="center">
-  <a href="gupta.saum@northeastern.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=EMail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/saumya-gupta346/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Publication
 
-###
+> **Face Mask and Social Distance Detection Using Deep Learning Models**
+> Springer · Computational Vision and Bio-Inspired Computing · Advances in Intelligent Systems and Computing, Vol. 1439 · April 2023
+> MobileNet · YOLO · ResNet-50 · 506 accesses · 3 citations
+>
+> [→ link.springer.com/chapter/10.1007/978-981-19-9819-5_34](https://link.springer.com/chapter/10.1007/978-981-19-9819-5_34)
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/SaumyaGupta907/SaumyaGupta907/output/snake.svg" alt="Snake animation" />
+## Recognition
 
-###
+- Winner, Smart India Hackathon 2022 — world's largest hackathon · 1M+ participants
+- Attended Grace Hopper Celebration (GHC) 2025
+- Founded women-in-tech coding club · peer learning and mentorship
+- Teaching Assistant, Object-Oriented Design — Northeastern University · 300+ students
+- AWS Cloud Foundations & Cloud Architecting certified · AWS Developer Associate in progress
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SaumyaGupta907/count.svg?"  />
-</div>
+---
 
-###
+## Currently
+
+Learning **AI/ML engineering** · Practicing **DSA in Python** · Building with **LangChain + HuggingFace** · Open to **full-stack SWE roles across the US**
+
+---
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/saumya.1126@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saumya.1126@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/saumya--gupta346-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-gupta346/)
+[![Portfolio](https://img.shields.io/badge/saumyagupta907.github.io-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://saumyagupta907.github.io/)
