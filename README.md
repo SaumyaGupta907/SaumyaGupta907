@@ -41,4 +41,4 @@
 ## Publication
 
 **[Face Mask and Social Distance Detection Using Deep Learning Models](https://link.springer.com/chapter/10.1007/978-981-19-9819-5_34)**<br>
-<sub>Springer · Computational Vision and Bio-Inspired Computing · Vol. 1439 · April 2023 · MobileNet · YOLO · ResNet-50 · 506 accesses · 3 citations</sub>
+<sub>Springer · Computational Vision and Bio-Inspired Computing · Vol. 1439 · April 2023 · MobileNet · YOLO · ResNet-50 · 506 accesses · 3 citations</sub> 
